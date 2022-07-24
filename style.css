@@ -66,9 +66,11 @@ body {
     padding: 20px;
 }
 
-.summary h2 {
+.summary h1 {
     color: var(--Darkblue);
+    font-size: 24px;
     font-weight: 900;
+    margin-bottom: 10px;
 }
 
 .summary p {
@@ -79,6 +81,7 @@ body {
 .wrapper {
     display: flex;
     justify-content: center;
+    margin: 10px 0;
 }
 
 .plan {
@@ -96,8 +99,9 @@ body {
     margin-left: 20px;
 }
 
-.text h4 {
+.text h2 {
     font-weight: 900;
+    font-size: 18px;
     color: var(--Darkblue);
 }
 
@@ -107,6 +111,7 @@ body {
 
 .link a {
     color: var(--Brightblue);
+    font-size: 15px;
     font-weight: 600;
 
 }
@@ -155,8 +160,9 @@ body {
         max-width: 320px;
     }
     
-    .summary h2 {
+    .summary h1 {
         color: var(--Darkblue);
+        font-size: 24px;
         font-weight: 900;
     }
     
