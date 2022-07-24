@@ -61,19 +61,19 @@ body {
     border-radius: 15px 15px 0 0;
 }
 
-.summary {
+section {
     text-align: center;
     padding: 20px;
 }
 
-.summary h1 {
+section h1 {
     color: var(--Darkblue);
     font-size: 24px;
     font-weight: 900;
     margin-bottom: 10px;
 }
 
-.summary p {
+section p {
     color: var(--Desaturatedblue);
     font-weight: 500;
 }
