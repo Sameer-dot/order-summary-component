@@ -24,8 +24,8 @@ Users should be able to:
 
 ### 🔗Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/order-summary-component-31380D6L5Z)
+- Live Site URL: [live site URL](https://charming-melomakarona-4a9b78.netlify.app/)
 
 ### ⚙Built with
 
